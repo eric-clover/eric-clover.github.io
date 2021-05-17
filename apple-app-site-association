@@ -13,6 +13,10 @@
       {
          "appID": "Q993233M8T.com.clover.ecomm.Ecomm-SDK-Testing",
          "paths": ["/ecomm/xctest/auth/*"]
+      },
+      {
+         "appID": "86GW5K5972.com.example.ecomm.Merchant-Example",
+         "paths": ["/ecomm/merchant/hoang/auth/*"]
       }
       ]
    }
