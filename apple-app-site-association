@@ -15,7 +15,7 @@
          "paths": ["/ecomm/xctest/auth/*"]
       },
       {
-         "appID": "86GW5K5972.com.example.ecomm.Merchant-Example",
+         "appID": "86GW5K5972.com.example.ecomm.Merchant-Example1",
          "paths": ["/ecomm/merchant/hoang/auth/*"]
       }
       ]
