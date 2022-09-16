@@ -17,6 +17,10 @@
       {
          "appID": "86GW5K5972.com.example.ecomm.Merchant-Example1",
          "paths": ["/ecomm/merchant/hoang/auth/*"]
+      },
+      {
+         "appID": "86GW5K5972.com.clover.ericrowe.Companion-Dev",
+         "paths": ["/companion/merchant/auth/*"]
       }
       ]
    }
