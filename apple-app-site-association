@@ -25,6 +25,10 @@
       {
          "appID": "Q993233M8T.com.clover.ericrowe.Go-Companion-Direct-Import",
          "paths": ["/companiongo/merchant/auth/*"]
+      },
+      {
+         "appID": "Q993233M8T.com.clover.ericrowe.Go-SDK-Example",
+         "paths": ["/companiongoexample/merchant/auth/*"]
       }
       ]
    }
