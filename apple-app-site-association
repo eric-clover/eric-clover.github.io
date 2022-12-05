@@ -40,7 +40,7 @@
       },
       {
          "appID": "Q993233M8T.com.clover.semi.go.Simple-Example",
-         "paths": ["/com/clover/semi/go/simple_example/merchant/auth/*"]
+         "paths": ["/com/clover/semi/go/simpleexample/merchant/auth/*"]
       }
       ]
    }
