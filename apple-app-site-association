@@ -37,6 +37,10 @@
       {
          "appID": "Q993233M8T.com.clover.semi.go.Simple-Example",
          "paths": ["/semigo/simpleexample/auth/*"]
+      },
+      {
+         "appID": "Q993233M8T.com.clover.erictest.Go-SDK-Intro",
+         "paths": ["/gosdkintro/merchant/auth/*"]
       }
       ]
    }
