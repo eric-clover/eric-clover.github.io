@@ -45,6 +45,10 @@
       {
          "appID": "Q993233M8T.com.clover.semi.go.Clover-Go-Test.binary",
          "paths": ["/companiongotestbinary/merchant/auth/*"]
+      },
+      {
+         "appID": "Q993233M8T.com.clover.erictest.gosdk514",
+         "paths": ["/companiongotestgosdk514/merchant/auth/*"]
       }
       ]
    }
